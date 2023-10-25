@@ -1,0 +1,4 @@
+Image~=1.5.33
+Pillow~=10.0.0
+flask~=2.3.2
+requests~=2.31.0
